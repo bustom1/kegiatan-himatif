@@ -1,5 +1,4 @@
-UI UX Designer
-Front End Developer
-Back End Developer
 Android Developer
 Multi Platform Developer
+Machine Learning
+Cloud Developer
